@@ -4,4 +4,13 @@
   crossorigin="anonymous"></script>
 <script src="demo.js"></script>
  
-<div id="text"></div>
+## Rollable Table
+
+| d6 | Thing |
+| --- | --- |
+| 1 | NPC rubs the back of his neck as he speaks. (Is he nervous? Was he hit?) |
+| 2 | Conceited, obnoxiously so. |
+| 3 | NPC has no fingernails (You learn he survived torture.) |
+| 4 | Jingles gold pieces in pocket. |
+| 5 | Says “hmmm hmmm” often. (Habit or is he that agreeable?) |
+| 6 | Asks rhetorical questions. |
